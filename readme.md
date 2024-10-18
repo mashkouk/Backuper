@@ -38,7 +38,7 @@ Backuper is an automated backup script with full customization options and suppo
 To install, use the following command:
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/iamtheted/Backuper/raw/main/install.sh)"
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/mashkouk/Backuper/refs/heads/main/install.sh)"
 ```
 
 
