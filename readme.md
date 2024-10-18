@@ -41,11 +41,3 @@ To install, use the following command:
 sudo bash -c "$(curl -sL https://raw.githubusercontent.com/mashkouk/Backuper/refs/heads/main/install.sh)"
 ```
 
-
-## Support the Project 
-
-**We don't need financial support, only a Star (⭐) is enough, thank you.**
-
-**Join [@ErfJabs](https://t.me/erfjabs) for the latest news and updates.** 
-
-[![Stargazers over time](https://starchart.cc/erfjab/Backuper.svg?variant=adaptive)](https://starchart.cc/erfjab/Backuper)
