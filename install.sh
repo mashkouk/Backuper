@@ -101,7 +101,7 @@ check_needs() {
 menu() {
     while true; do
         print "\n\t Welcome to Backuper!"
-        print "\t\t version 0.2.1 by @ErfJab"
+        print "\t\t version 0.2.1 by @mashkoukras"
         print "—————————————————————————————————————————————————————————————————————————"
         print "1) Install"
         print "2) Manage"
@@ -742,7 +742,7 @@ backup_name="/root/${name}_\${timestamp}${compression_ext}"
 caption="$caption
 
 📦  from \$ip
-⚡️  by @ErfJabs"
+⚡️  by @mashkoukras"
 
 rm -f "\$backup_name"*
 
